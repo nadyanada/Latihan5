@@ -1,0 +1,41 @@
+*{
+    font-family: 'Oswald', sans-serif;
+}
+
+.navbar{
+    background-color: #ffffff;
+}
+
+.navbar-brand{
+    color: black;
+    font-size: 60px;
+}
+
+p{
+    color: gray;
+}
+
+.img-responsive{
+    width: 600px;
+    height: 500px;
+}
+
+#intro{
+    padding-top: 5rem;
+}
+
+.btn{
+    background-color: pink;
+    color:white
+}
+
+.btn:hover{
+    background-color: pink;
+    color: white;
+}
+
+.btn-outline{
+    background-color: white;
+    color: pink;
+    border-color: pink;
+}
